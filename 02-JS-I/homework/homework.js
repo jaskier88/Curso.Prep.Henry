@@ -7,10 +7,10 @@ const nuevaString = null;
 const nuevoNum = null;
 
 // Crea una variable booleana:
-const nuevoBool = 'Hola';
+const nuevoBool = 'Hol';
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = 1 - null === 5;
 
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * null === 40 ;
@@ -33,7 +33,7 @@ function devolverString(str) {
 
 function suma(x, y) {
   // "x" e "y" son números
-  // Suma "x" e "y" juntos y devuelve el valor
+  // Suma "y" e "y" juntos y devuelve el valor
   // Tu código:
   
 }
